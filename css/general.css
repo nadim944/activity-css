@@ -1,0 +1,56 @@
+/* CSS document 8/
+
+
+*/
+
+
+html {
+     font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color:#f90;
+}
+
+h1 {
+    font-family: Georgia, "Times New Romasn", serif; 
+    font-size: 3rem; /*   */
+    font-weight: normal;
+}
+
+
+text-shadow: #999 2px 2px; /* colour + x + y */
+
+
+
+p,
+li {
+    font-size: 1rem; 
+    line-height: 1.5rem; 
+}
+
+h1 + p {
+    font-size:1.5rem;
+    line-height: 1.75rem;
+}
+
+strong {
+    font-weight: bold;
+}
+    
+em {
+    font-weight: italic;
+}
+    
+hr {
+    border: solid 4px #f00;
+}
+
+ul,
+ol {
+    background-color:#f34;
+}
+
+
+
+    
